@@ -11,7 +11,7 @@ class Bank:
 		print("Enter your choice\n")
 		print("1] Create an account in our bank\n")
 		print("2] Credit amount in your acount\n")
-		print("3] Debit amount from your account\n")
+		print("3] Debit amount from your   account\n")
 		print("4] Check Balance\n")
 		print("5] Transaction Summary")
 		choice=int(input("Enter your choice:"))
